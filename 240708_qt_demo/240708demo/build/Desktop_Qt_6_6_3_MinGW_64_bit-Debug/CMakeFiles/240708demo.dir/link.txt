@@ -1,0 +1,3 @@
+D:\Qt\Qt6.6\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\240708demo.dir/objects.a
+D:\Qt\Qt6.6\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\240708demo.dir/objects.a @CMakeFiles\240708demo.dir\objects1.rsp
+D:\Qt\Qt6.6\Tools\mingw1120_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\240708demo.dir/objects.a -Wl,--no-whole-archive -o 240708demo.exe -Wl,--out-implib,lib240708demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\240708demo.dir\linkLibs.rsp

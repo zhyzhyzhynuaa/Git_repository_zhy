@@ -1,0 +1,1 @@
+-I"C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/240708demo_autogen/include" -isystem D:/Qt/Qt6.6/6.6.3/mingw_64/include/QtCore -isystem D:/Qt/Qt6.6/6.6.3/mingw_64/include -isystem "D:/Qt/Qt6.6/6.6.3/mingw_64/mkspecs/win32-g++" -isystem D:/Qt/Qt6.6/6.6.3/mingw_64/include/QtWidgets -isystem D:/Qt/Qt6.6/6.6.3/mingw_64/include/QtGui

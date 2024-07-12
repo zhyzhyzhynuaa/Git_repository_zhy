@@ -1,0 +1,9 @@
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/240708demo.dir
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/240708demo_autogen_timestamp_deps.dir
+C:/Users/admin/Desktop/240708_qt_demo/240708demo/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/240708demo_autogen.dir
